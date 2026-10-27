@@ -1,5 +1,5 @@
 # Customer Segmentation & Sales Prediction
-
+# add a new customer and it also gets updated
 A complete ML project: a Colab notebook with the nine lab experiments and a Streamlit dashboard backed by saved scikit-learn models.
 
 ## What was built
